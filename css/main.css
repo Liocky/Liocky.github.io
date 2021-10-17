@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color : 403939;
+    background-color : dbb418;
 }
 h1 {
 	font-size: 3em;
@@ -10,10 +10,10 @@ h1 {
 p {
 	font-size: 1.5em;
 	line-height: 1.4em;
-	color: #ffffff;
+	color: #1856db;
 }
 footer {
-	border-top: 1px solid #d5d5d5;
+	border-top: 1px solid #18db3f;
 	font-size: .8em;
 }
 nav ul, footer ul {
@@ -28,7 +28,7 @@ nav ul li, footer ul li {
 }
 a {
 	text-decoration: none;
-	color: #999;
+	color: #db1818;
 }
 a:hover {
 	text-decoration: underline;
